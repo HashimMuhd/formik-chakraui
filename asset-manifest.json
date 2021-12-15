@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/formik-chakraui/static/css/main.ae3f38ef.chunk.css",
+    "main.js": "/formik-chakraui/static/js/main.83accd09.chunk.js",
+    "main.js.map": "/formik-chakraui/static/js/main.83accd09.chunk.js.map",
+    "runtime-main.js": "/formik-chakraui/static/js/runtime-main.786723dd.js",
+    "runtime-main.js.map": "/formik-chakraui/static/js/runtime-main.786723dd.js.map",
+    "static/js/2.453d2650.chunk.js": "/formik-chakraui/static/js/2.453d2650.chunk.js",
+    "static/js/2.453d2650.chunk.js.map": "/formik-chakraui/static/js/2.453d2650.chunk.js.map",
+    "static/js/3.d664d0d3.chunk.js": "/formik-chakraui/static/js/3.d664d0d3.chunk.js",
+    "static/js/3.d664d0d3.chunk.js.map": "/formik-chakraui/static/js/3.d664d0d3.chunk.js.map",
+    "index.html": "/formik-chakraui/index.html",
+    "static/css/main.ae3f38ef.chunk.css.map": "/formik-chakraui/static/css/main.ae3f38ef.chunk.css.map",
+    "static/js/2.453d2650.chunk.js.LICENSE.txt": "/formik-chakraui/static/js/2.453d2650.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.786723dd.js",
+    "static/js/2.453d2650.chunk.js",
+    "static/css/main.ae3f38ef.chunk.css",
+    "static/js/main.83accd09.chunk.js"
+  ]
+}
